@@ -1,0 +1,18 @@
+body{
+    background-color: grey;
+}
+
+h1{
+    text-align: center;
+    color: indianred;
+    text-shadow: 1px 1px black;
+}
+
+div{
+    width: 250px;
+    height:  120px;
+    background-color: darkcyan
+    
+    
+    
+}
